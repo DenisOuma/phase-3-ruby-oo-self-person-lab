@@ -10,11 +10,10 @@ class Person
         @take_bath = take_bath
         @work_out = work_out
         @call_friend = call_friend
-
-        # @start_conversation = start_conversation
-        # @happiness_points = happiness_points
-        # @hygiene_points = hygiene_points
-        # @topic = topic
+        @start_conversation = start_conversation
+        @happiness_points = happiness_points
+        @hygiene_points = hygiene_points
+        @topic = topic
 
 
     end
@@ -110,7 +109,7 @@ class Person
             "blah blah blah blah blah"
         end
     end
-    
+
 
 
 
